@@ -1,0 +1,13 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary writing artifacts
+*.tmp
+*.bak
+*.swp
+
+# Generated exports (keep source markdown in repo)
+exports/
