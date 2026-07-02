@@ -1,0 +1,25 @@
+{
+  "project": "桑野与露娜 写作工程",
+  "version": "v0.1-doc-init",
+  "generated_files": [
+    "README.md",
+    "archive/.gitkeep",
+    "chapters/.gitkeep",
+    "docs/00_GLOBAL_PROMPT.md",
+    "docs/01_STORY_BIBLE.md",
+    "docs/02_CHARACTER_BIBLE.md",
+    "docs/03_WORLD_BIBLE.md",
+    "docs/04_PLOT_OUTLINE.md",
+    "docs/05_CHAPTER_OUTLINE.md",
+    "docs/06_STYLE_GUIDE.md",
+    "docs/07_CONTINUITY_LOG.md",
+    "docs/08_TERMS_GLOSSARY.md",
+    "docs/09_UNRESOLVED_THREADS.md",
+    "docs/10_REVISION_NOTES.md",
+    "drafts/.gitkeep",
+    "prompts/chapter_writing_prompt.md",
+    "prompts/continuity_check_prompt.md",
+    "prompts/revision_prompt.md"
+  ],
+  "note": "仅包含文档与提示词，不包含小说正文。"
+}
